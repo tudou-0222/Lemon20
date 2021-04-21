@@ -46,6 +46,6 @@ def execute_fun(filename,sheetname):
 
 
 # 调用函数
-execute_fun('D:\\Program Files\\.jenkins\\workspace\\scb20\\test_data\\test_case_api.xlsx,'register')
+execute_fun('D:\\Program Files\\.jenkins\\workspace\\scb20\\test_data\\test_case_api.xlsx','register')
 # execute_fun('D:\\Pycharm_workspace\\SCB20\\test_data\\test_case_api.xlsx','login')
 
